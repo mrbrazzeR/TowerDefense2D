@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - block_land
+  - destroy
+  - enemy
+  - checksite
+  - wall
+  - Node
+  - tower
+  - land
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - block_land
+  - land
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ammo
+    uniqueID: 111875103
+    locked: 0
+  - name: BG
+    uniqueID: 181556269
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: land
+    uniqueID: 2015949649
+    locked: 0
+  - name: character
+    uniqueID: 1085582897
+    locked: 0
+  - name: weapon
+    uniqueID: 2431394765
+    locked: 0
